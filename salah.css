@@ -1,0 +1,86 @@
+h1{
+    text-align: center;
+}
+
+
+.input-Add-Todo{
+    margin: auto;
+    height: 20px;
+    margin-left: 20%;
+    width: 50%;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 1px;
+    padding: 5px 5px;
+    margin-bottom: 5px;
+}
+
+.input-filter{
+    margin: auto;
+    width: 50%;
+    
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    margin-left: 20%;
+    position: relative;
+    border-radius: 1px;
+    padding: 5px 5px;
+}
+.add{
+    background-color: #1A8756;
+    height: 25px;
+    width: 25px;
+    border-radius: 5px;
+    padding: 5px;
+    margin-left: 2px;
+    border: 0;
+    cursor: pointer;
+    border: none;   
+}
+#add-icon{
+    color:#1A8756;
+    background-color: white;
+    height: 12px;
+    cursor: pointer;
+}
+
+
+#search-icon{
+    margin-left: 5px;
+    cursor: pointer;
+}
+
+table td {
+    
+    border: 1px solid #ccc;
+ 
+    padding: 5px 500px 15px 10px; 
+
+   
+}
+
+
+
+table {
+    
+    padding-top: 10px;
+    width: 80%;
+    margin: auto;
+    
+    
+}
+
+
+.delet-btn{
+    background-color: #DE3444;
+    padding: 5px;
+    border: 0;
+    border-radius: 3px;
+    align-items: center;
+    cursor: pointer;
+    
+}
+
+#trash{ 
+    color: white;
+}
